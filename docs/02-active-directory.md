@@ -192,5 +192,3 @@ Back on DC01 → AD Users and Computers → **Computers** container → CLIENT01
 | Domain join fails with "domain not found" | Ping DC01 from CLIENT01 — if it fails, check NSG ICMP rule |
 
 ---
-
-**Next:** [Phase 3 — AWS Setup →](03-aws-setup.md)
