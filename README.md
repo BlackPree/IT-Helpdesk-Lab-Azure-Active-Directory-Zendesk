@@ -1,9 +1,6 @@
 # 🖥️ IT Helpdesk Lab — Azure Active Directory + Zendesk
 
 ### Built by: Munashe
-### LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-### GitHub: [github.com/yourusername](https://github.com/yourusername)
-
 ---
 
 <div align="center">
