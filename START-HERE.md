@@ -161,16 +161,7 @@ it-helpdesk-lab/               ← your repo name
     └── zendesk-kb-article.png
 ```
 
-**How to upload on GitHub (no software needed):**
-1. Go to your repo → **Add file → Create new file**
-2. In the name box type the full path e.g. `docs/01-azure-setup.md`
-3. Paste the file contents into the text area
-4. Scroll down → write a commit message → **Commit changes**
-5. Repeat for every file
 
-For screenshots: **Add file → Upload files** → drag images in → type `assets/` before the filename.
-
----
 
 ## What NOT to Put on GitHub
 
